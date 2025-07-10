@@ -33,3 +33,22 @@ header section h1{
     font-size: 50px;
     color: #252432;
 }
+.main-container{
+    width: 1140px;
+    height: 328px;
+    margin: 116px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container-picture img{
+    border-radius: 48px;
+}
+.container h1{
+    color: #252432;
+    font-size: 40px;
+}
+.container p{
+    color: #00000098;
+
+}
