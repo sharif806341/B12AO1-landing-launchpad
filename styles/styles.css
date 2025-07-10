@@ -1,0 +1,25 @@
+header{
+   height: 698px;
+   background-image: url(../Assets/Hero-bg.png);
+   background-size: cover;
+}
+nav{
+    height: 151px;
+    width: 1140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px auto;
+}
+nav button{
+    height: 48px;
+    border: none;
+    background-color: #4e47FF;
+    padding: 12px 36px;
+    color: #FFFF;
+    border-radius: 10px;
+}
+nav h1{
+    font-size: 35px;
+    color: #4e47FF;
+}
