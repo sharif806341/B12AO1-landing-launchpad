@@ -52,3 +52,43 @@ header section h1{
     color: #00000098;
 
 }
+.secoundary{
+    height: 306px;
+    width: 1140px;
+    margin: 116px auto;
+    background-color: #4d47ff1d;
+    border-radius: 16px;
+}
+.secoundary-container{
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.secoundary h2{
+    text-align: center;
+    color: #252432;
+    padding-top: 30px;
+}
+.secoundary-container h1{
+    color: #4e47FF;
+    margin: 20px;
+    font-size: 50px;
+}
+.main-item{
+    text-align: center;
+    height: 696px;
+    width: 1140px;
+    border-radius: 14px;
+    align-items: center;
+    margin-top: 71px;
+    padding: 0 auto;
+    justify-content: space-between;
+}
+.main h1{
+    font-size: 60px;
+    color: #000000;
+    text-align: center;
+}
+.new-one{
+    margin-top: 20px;
+}
